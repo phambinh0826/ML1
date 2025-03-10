@@ -29,7 +29,7 @@ Yêu cầu đầu vào
 - Nếu bạn hoàn toàn mới với *machine learning*, hãy tham khảo khóa học `Intro to Machine Learning <https://www.kaggle.com/learn/intro-to-machine-learning>`, khóa học này sẽ cung cấp tất cả những kiến thức cần thiết để bạn chuẩn bị cho khóa học này.
 
 Contents
-========
+--------
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 1 - Missing Values
