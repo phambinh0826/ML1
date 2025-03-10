@@ -9,7 +9,11 @@ Nếu bạn đã có nền tảng về *machine learning* và muốn học cách
 - Xây dựng các mô hình tiên tiến được sử dụng rộng rãi để chiến thắng các cuộc thi Kaggle như **XGBoost**,
 - Tránh các lỗi phổ biến và quan trọng trong *data science* như **leakage** (*rò rỉ dữ liệu*).
 
-Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông qua các bài tập thực hành với dữ liệu thực tế. Các bài tập này sử dụng dữ liệu từ cuộc thi `Housing Prices Competition for Kaggle Learn Users <https://www.kaggle.com/c/home-data-for-ml-course>`, nơi bạn sẽ sử dụng 79 biến giải thích khác nhau (chẳng hạn như kiểu mái nhà, số phòng ngủ, số phòng tắm) để dự đoán giá nhà. Bạn sẽ đo lường tiến độ của mình bằng cách nộp dự đoán vào cuộc thi này và theo dõi thứ hạng của mình trên `bảng xếp hạng <https://www.kaggle.com/c/home-data-for-ml-course/leaderboard>`!
+Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông qua các bài tập thực hành với dữ liệu thực tế.
+
+Các bài tập này sử dụng dữ liệu từ cuộc thi `Housing Prices Competition for Kaggle Learn Users <https://www.kaggle.com/c/home-data-for-ml-course>`, nơi bạn sẽ sử dụng 79 biến giải thích khác nhau (chẳng hạn như kiểu mái nhà, số phòng ngủ, số phòng tắm) để dự đoán giá nhà.
+
+Bạn sẽ đo lường tiến độ của mình bằng cách nộp dự đoán vào cuộc thi này và theo dõi thứ hạng của mình trên `bảng xếp hạng <https://www.kaggle.com/c/home-data-for-ml-course/leaderboard>`!
 
 Yêu cầu đầu vào
 =======================
@@ -24,17 +28,11 @@ Yêu cầu đầu vào
 Contents
 ========
 
-Lecture 1 - Missing Values
-========
-
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 1 - Missing Values
 
    missing-values.jpynb
-
-Lecture 2 - Categorical-Variables
-========
 
 .. toctree::
    :maxdepth: 1
@@ -42,17 +40,11 @@ Lecture 2 - Categorical-Variables
 
    categorical-variables.jpynb
 
-Lecture 3 - Pipelines
-========
-
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 3 - Pipelines
 
    pipelines.jpynb
-
-Lecture 4 - Cross-Validation
-========
 
 .. toctree::
    :maxdepth: 1
@@ -60,17 +52,11 @@ Lecture 4 - Cross-Validation
 
    cross-validation.jpynb
 
-Lecture 5 - XGBoost
-========
-
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 5 - XGBoost
 
    xgboost.jpynb
-
-Lecture 6 - Data-Leakage
-========
 
 .. toctree::
    :maxdepth: 1
