@@ -1,5 +1,5 @@
 Chào mừng bạn đến với khóa học Intermediate Machine Learning!
-=============================================================
+==================================================================
 
 Nếu bạn đã có nền tảng về *machine learning* và muốn học cách nhanh chóng cải thiện chất lượng mô hình của mình, thì bạn đang ở đúng nơi! Trong khóa học này, bạn sẽ nâng cao kiến thức của mình bằng cách học cách:
 
@@ -12,12 +12,12 @@ Nếu bạn đã có nền tảng về *machine learning* và muốn học cách
 Trong suốt khóa học, bạn sẽ áp dụng kiến thức của mình thông qua các bài tập thực hành với dữ liệu thực tế. Các bài tập này sử dụng dữ liệu từ cuộc thi `Housing Prices Competition for Kaggle Learn Users <https://www.kaggle.com/c/home-data-for-ml-course>`, nơi bạn sẽ sử dụng 79 biến giải thích khác nhau (chẳng hạn như kiểu mái nhà, số phòng ngủ, số phòng tắm) để dự đoán giá nhà. Bạn sẽ đo lường tiến độ của mình bằng cách nộp dự đoán vào cuộc thi này và theo dõi thứ hạng của mình trên `bảng xếp hạng <https://www.kaggle.com/c/home-data-for-ml-course/leaderboard>`!
 
 Yêu cầu đầu vào
-===============
+=======================
 
 - Bạn đã sẵn sàng cho khóa học này nếu bạn đã từng xây dựng một mô hình machine learning trước đây và quen thuộc với các chủ đề như:
-    - `model validation <https://www.kaggle.com/dansbecker/model-validation>` (*đánh giá mô hình*),
-    - `underfitting and overfitting <https://www.kaggle.com/dansbecker/underfitting-and-overfitting>` (*mô hình chưa đủ khớp và quá khớp*), và
-    - `random forests <https://www.kaggle.com/dansbecker/random-forests>` (*rừng ngẫu nhiên*).
+  - `model validation <https://www.kaggle.com/dansbecker/model-validation>` (*đánh giá mô hình*),
+  - `underfitting and overfitting <https://www.kaggle.com/dansbecker/underfitting-and-overfitting>` (*mô hình chưa đủ khớp và quá khớp*), và
+  - `random forests <https://www.kaggle.com/dansbecker/random-forests>` (*rừng ngẫu nhiên*).
 
 - Nếu bạn hoàn toàn mới với *machine learning*, hãy tham khảo khóa học `Intro to Machine Learning <https://www.kaggle.com/learn/intro-to-machine-learning>`, khóa học này sẽ cung cấp tất cả những kiến thức cần thiết để bạn chuẩn bị cho khóa học này.
 
@@ -27,35 +27,35 @@ Contents
    :maxdepth: 1
    :caption: Lecture 1 - Missing Values
 
-   Lecture 1 - Missing Values/index.rst
+   missing-values.jpynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 2 - Categorical-Variables
 
-   Lecture 2 - Categorical-Variables/index.rst
+   categorical-variables.jpynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 3 - Pipelines
 
-   Lecture 3 - Pipelines/index.rst
+   pipelines.jpynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 4 - Cross-Validation
 
-   Lecture 4 - Cross-Validation/index.rst
+   cross-validation.jpynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 5 - XGBoost
 
-   Lecture 5 - XGBoost/index.rst
+   xgboost.jpynb
 
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 6 - Data-Leakage
 
-   Lecture 6 - Data-Leakage/index.rst
+   data-leakage.jpynb
    
