@@ -11,6 +11,12 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: Machine Learning Explainability
+
+   ML_Explainability/index.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Các dự án nghiên cứu
 
    chapter_1/index.rst
