@@ -2,7 +2,7 @@
 import sphinx_rtd_theme
 
 # -- Project information
-project = 'Machine Learning 1'
+project = 'Machine Learning Handbook'
 copyright = '2025, Bình Phạm'
 author = 'Bình Phạm'
 
