@@ -23,11 +23,13 @@ Yêu cầu đầu vào
 
 Contents
 ========
+Lecture 1 - Missing Values
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 1 - Missing Values
 
    missing-values.jpynb
+
 
 .. toctree::
    :maxdepth: 1
