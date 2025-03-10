@@ -11,7 +11,7 @@ Contents
 
 .. toctree::
    :maxdepth: 1
-   :caption: Intermediate Machine Learning
+   :caption: Feature Engineering
 
    Feature-Engineering/index.rst
 
