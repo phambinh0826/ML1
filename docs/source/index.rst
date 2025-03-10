@@ -5,7 +5,9 @@ Contents
 --------
 
 .. toctree::
-   :caption: Lecture 1 - First Machine Learning Model
-   :maxdepth: 1
+   :maxdepth: 2
+   :caption: MỤC LỤC
 
-   1. first_machine_learning_model.ipynb
+   chapter_1/index
+   chapter_2/index
+   chapter_3/index
