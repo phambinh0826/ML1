@@ -23,7 +23,7 @@ Cuốn Handbook về Machine Learning mà tôi tạo ra là kết quả của vi
 
 **Ghi chú về quá trình phát triển**
 
-Cuốn Handbook này đang trong giai đoạn phát triển và sẽ được bổ sung liên tục. Chúng tôi khuyến khích sự đóng góp từ cộng đồng để giúp tài liệu trở nên hoàn thiện hơn. Nếu bạn có bất kỳ ý tưởng hoặc góp ý nào, xin vui lòng gửi về địa chỉ email ptcb1012588646@gmail.com của Bình Phạm. Sự tham gia của bạn sẽ giúp chúng tôi tạo ra một tài liệu hữu ích hơn cho tất cả mọi người.
+Cuốn Handbook này đang trong giai đoạn phát triển và sẽ được bổ sung liên tục. Tôi khuyến khích sự đóng góp từ cộng đồng để giúp tài liệu trở nên hoàn thiện hơn. Nếu bạn có bất kỳ ý tưởng hoặc góp ý nào, xin vui lòng gửi về địa chỉ email ptcb1012588646@gmail.com của Bình Phạm. Sự tham gia của bạn sẽ giúp chúng tôi tạo ra một tài liệu hữu ích hơn cho tất cả mọi người.
 
 **Kết luận**
 
