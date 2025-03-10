@@ -23,13 +23,18 @@ Yêu cầu đầu vào
 
 Contents
 ========
+
 Lecture 1 - Missing Values
+========
+
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 1 - Missing Values
 
    missing-values.jpynb
 
+Lecture 2 - Categorical-Variables
+========
 
 .. toctree::
    :maxdepth: 1
@@ -37,11 +42,17 @@ Lecture 1 - Missing Values
 
    categorical-variables.jpynb
 
+Lecture 3 - Pipelines
+========
+
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 3 - Pipelines
 
    pipelines.jpynb
+
+Lecture 4 - Cross-Validation
+========
 
 .. toctree::
    :maxdepth: 1
@@ -49,11 +60,17 @@ Lecture 1 - Missing Values
 
    cross-validation.jpynb
 
+Lecture 5 - XGBoost
+========
+
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 5 - XGBoost
 
    xgboost.jpynb
+
+Lecture 6 - Data-Leakage
+========
 
 .. toctree::
    :maxdepth: 1
