@@ -7,8 +7,7 @@ Contents
    :maxdepth: 1
    :caption: Intermediate Machine Learning
 
-   chapter_1/index.rst
-   chapter_2/index.rst
+   Intermediate-ML/index.rst
 
 .. toctree::
    :maxdepth: 1
