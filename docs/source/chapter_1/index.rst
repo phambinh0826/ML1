@@ -4,6 +4,4 @@ Lecture 1: ô Hình AI Đầu Tiên Của Bạn Sử Dụng Python và Scikit-le
 .. toctree::
    :maxdepth: 1
 
-   lesson_1
-   lesson_2
-   lesson_3
+   1. first_machine_learning_model.ipynb
