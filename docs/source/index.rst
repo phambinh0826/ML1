@@ -11,6 +11,12 @@ Contents
 
 .. toctree::
    :maxdepth: 1
+   :caption: Intermediate Machine Learning
+
+   Feature-Engineering/index.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Machine Learning Explainability
 
    ML_Explainability/index.rst
