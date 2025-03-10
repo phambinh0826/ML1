@@ -23,13 +23,39 @@ Yêu cầu đầu vào
 
 Contents
 ========
+.. toctree::
+   :maxdepth: 1
+   :caption: Lecture 1 - Missing Values
+
+   Lecture 1 - Missing Values/index.rst
 
 .. toctree::
    :maxdepth: 1
+   :caption: Lecture 2 - Categorical-Variables
 
-   Lecture 1 - Missing Values/index.rst
    Lecture 2 - Categorical-Variables/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lecture 3 - Pipelines
+
    Lecture 3 - Pipelines/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lecture 4 - Cross-Validation
+
    Lecture 4 - Cross-Validation/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lecture 5 - XGBoost
+
    Lecture 5 - XGBoost/index.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Lecture 6 - Data-Leakage
+
    Lecture 6 - Data-Leakage/index.rst
+   
