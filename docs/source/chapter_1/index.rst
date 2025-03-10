@@ -1,4 +1,4 @@
-Lecture 1: ô Hình AI Đầu Tiên Của Bạn Sử Dụng Python và Scikit-learn
+Lecture 1: Mô Hình AI Đầu Tiên Của Bạn Sử Dụng Python và Scikit-learn
 ====================
 
 .. toctree::
