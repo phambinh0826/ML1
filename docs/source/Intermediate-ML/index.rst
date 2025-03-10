@@ -30,7 +30,6 @@ Yêu cầu đầu vào
 
 Contents
 ========
-
 .. toctree::
    :maxdepth: 1
    :caption: Lecture 1 - Missing Values
