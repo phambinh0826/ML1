@@ -33,6 +33,12 @@ Contents
 --------
 .. toctree::
    :maxdepth: 1
+   :caption: Data Cleaning
+
+   Data Cleaning/index.rst
+
+.. toctree::
+   :maxdepth: 1
    :caption: Intermediate Machine Learning
 
    Intermediate-ML/index.rst
