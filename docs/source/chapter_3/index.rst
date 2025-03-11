@@ -1,4 +1,4 @@
-Lecture 3: Heart Disease Prediction
+Lecture: Heart Disease Prediction
 ====================
 
 .. toctree::
