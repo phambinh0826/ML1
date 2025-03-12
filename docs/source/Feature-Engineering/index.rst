@@ -38,4 +38,3 @@ Bạn đã sẵn sàng chưa? Hãy bắt đầu nào! 🚀
    3. creating-features.ipynb
    4. clustering-with-k-means.ipynb
    5. principal-component-analysis.ipynb
-   5. principal-component-analysis.ipynb
