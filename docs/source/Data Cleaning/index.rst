@@ -9,8 +9,8 @@ Trong khóa học này, bạn sẽ học cách giải quyết một số vấn �
 
 Trong notebook này, chúng ta sẽ xem xét cách xử lý các giá trị thiếu.
 
-Contents
---------
+**Contents**
+
 .. toctree::
    :maxdepth: 1
 
