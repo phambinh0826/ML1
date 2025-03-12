@@ -1,4 +1,4 @@
-**Chào mừng đến với khóa học Feature Engineering**
+**Module 3: Feature Engineering**
 ===========================================================
 
 Các tính năng tốt hơn tạo nên các mô hình tốt hơn. Khám phá cách tận dụng tối đa dữ liệu của bạn.
@@ -28,8 +28,6 @@ Sau khi hoàn thành khóa học này, bạn sẽ có **nhiều ý tưởng** đ
 
 Bạn đã sẵn sàng chưa? Hãy bắt đầu nào! 🚀
 
-Contents
---------
 
 .. toctree::
    :maxdepth: 1
