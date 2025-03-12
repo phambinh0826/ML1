@@ -1,4 +1,4 @@
-**Data Cleaning**
+**Module 1: Data Cleaning**
 ====================
 
 Chào mừng bạn đến với khóa học **Dọn dẹp Dữ liệu** trên Kaggle Learn!
