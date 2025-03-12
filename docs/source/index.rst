@@ -31,22 +31,13 @@ Cuốn Handbook về Machine Learning của tôi là một công cụ học tậ
 
 Contents
 --------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Data Cleaning
+   :caption: Data Engineering
 
    Data Cleaning/index.rst
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Intermediate Machine Learning
-
    Intermediate-ML/index.rst
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Feature Engineering
-
    Feature-Engineering/index.rst
 
 .. toctree::
