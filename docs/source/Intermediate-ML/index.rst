@@ -1,4 +1,4 @@
-**Chào mừng bạn đến với khóa học Intermediate Machine Learning!**
+**Module 2: Intermediate Machine Learning!**
 ==================================================================
 
 Nếu bạn đã có nền tảng về *machine learning* và muốn học cách nhanh chóng cải thiện chất lượng mô hình của mình, thì bạn đang ở đúng nơi! Trong khóa học này, bạn sẽ nâng cao kiến thức của mình bằng cách học cách:
