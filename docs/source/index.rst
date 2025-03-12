@@ -33,7 +33,7 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Data Engineering
 
    Data Cleaning/index.rst
@@ -41,7 +41,7 @@ Contents
    Feature-Engineering/index.rst
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Machine Learning Explainability
 
    ML_Explainability/index.rst
