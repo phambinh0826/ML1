@@ -1,7 +1,8 @@
 **Social Network Analysis**
 ====================
 
-Khóa học này khám phá giao điểm giữa các lý thuyết xã hội và phân tích thống kê trong các mạng xã hội, tập trung vào sự phụ thuộc cấu trúc và các hệ quả của nó. Bạn sẽ tham gia vào việc kiểm tra giả thuyết các lực xã hội sử dụng dữ liệu thực nghiệm, và học cách xây dựng các mạng lưới và mô hình hành vi theo thời gian dài bằng các công cụ như 'statnet' và 'RSiena.' Các thuật ngữ chính và hệ thống phân cấp của việc hình thành các liên kết xã hội sẽ được nhấn mạnh, cùng với các phép tính thực tế về các chỉ số cơ bản của đồ thị và mạng lưới như Mật độ (Density) và Bậc (Degree). Thêm vào đó, bạn sẽ có khả năng phân biệt giữa các loại mạng khác nhau và các chỉ số trung tâm, trang bị cho bạn một hiểu biết toàn diện về phân tích mạng xã hội.
+Khóa học này khám phá giao điểm giữa các lý thuyết xã hội và phân tích thống kê trong các mạng xã hội, tập trung vào sự phụ thuộc cấu trúc và các hệ quả của nó. Bạn sẽ tham gia vào việc kiểm tra giả thuyết các lực xã hội sử dụng dữ liệu thực nghiệm, và học cách xây dựng các mạng lưới và mô hình hành vi theo thời gian dài bằng các công cụ như 'statnet' và 'RSiena.'
+Các thuật ngữ chính và hệ thống phân cấp của việc hình thành các liên kết xã hội sẽ được nhấn mạnh, cùng với các phép tính thực tế về các chỉ số cơ bản của đồ thị và mạng lưới như Mật độ (Density) và Bậc (Degree). Thêm vào đó, bạn sẽ có khả năng phân biệt giữa các loại mạng khác nhau và các chỉ số trung tâm, trang bị cho bạn một hiểu biết toàn diện về phân tích mạng xã hội.
 
 **Mục tiêu Học tập**
 
