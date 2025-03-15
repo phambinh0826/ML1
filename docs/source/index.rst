@@ -59,4 +59,4 @@ Contents
    :maxdepth: 2
    :caption: Social Network Analysis
 
-   Social Network Analysis/index.rst
+   Social Network Analysis/Lecture 1 - Graph Theory and Centrality Measures/index.rst
