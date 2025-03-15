@@ -55,7 +55,7 @@ Contents
    Reducing dimensionality with PCA/index.rst
    chapter_3/index.rst
 
-   .. toctree::
+.. toctree::
    :maxdepth: 2
    :caption: Social Network Analysis
 
