@@ -25,4 +25,6 @@ Các thuật ngữ chính và hệ thống phân cấp của việc hình thành
 .. toctree::
    :maxdepth: 1
 
-   M2. 1. Graph Theory and Centrality Measures.ipynb
+   1. Terminology.ipynb
+   2. Degree Centrality.ipynb
+   3. Betweenness Centrality.ipynb
