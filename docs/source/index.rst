@@ -60,3 +60,4 @@ Contents
    :caption: Social Network Analysis
 
    Social Network Analysis/index.rst
+   Social Network Analysis/Module 1 - Graph Theory and Centrality Measures/index.rst
