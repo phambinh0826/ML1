@@ -7,9 +7,9 @@ Khóa học này có 3 mô-đun sau:
 
 **Mô-đun 1: Lý thuyết đồ thị và các phép đo**
 
-**Mô-đun 2: Trung tâm hóa và lý thuyết xã hội **
+**Mô-đun 2: Trung tâm hóa và lý thuyết xã hội**
 
-**Mô-đun 3: Mô hình thống kê mạng lưới **
+**Mô-đun 3: Mô hình thống kê mạng lưới**
 
 **Mô-đun 1: Lý thuyết đồ thị và các phép đo**
 
