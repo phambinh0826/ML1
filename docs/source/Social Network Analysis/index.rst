@@ -38,12 +38,3 @@ Khóa học này có 3 mô-đun sau:
 - Sách giáo khoa của khóa học và các tài liệu đọc bổ sung (chi tiết sẽ được cung cấp trong lớp học)
 
 Hãy chuẩn bị sẵn sàng để đắm chìm vào thế giới thú vị của **Phân Tích Mạng Xã Hội**, nơi bạn sẽ khám phá những hiểu biết về cách mà mạng lưới định hình các tương tác xã hội và ảnh hưởng đến hành vi!
-
-
-
-**Mục Lục**
-
-.. toctree::
-   :maxdepth: 1
-
-   Module 1 - Graph Theory and Centrality Measures/index.rst
