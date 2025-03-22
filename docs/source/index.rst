@@ -61,3 +61,9 @@ Contents
 
    Social Network Analysis/index.rst
    Social Network Analysis/Module 1 - Graph Theory and Centrality Measures/index.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Network Analysis_ Integrating Social Network Theory, Method, and Application with R
+
+   Structural Analysis in the Social Sciences/index.rst
