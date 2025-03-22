@@ -11,6 +11,6 @@ We then cover in more detail how network analysis formalizes the
 conceptualization, data collection, and visualization of relational data.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   .ipynb
+   2. What Is Social Structure/2. What Is Social Structure.ipynb
