@@ -1,5 +1,4 @@
-PART I.
-THINKING STRUCTURALLY
+PART I. THINKING STRUCTURALLY
 =====================
 
 Network analysis formalizes the study of relationships, and social network
