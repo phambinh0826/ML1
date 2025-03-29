@@ -64,6 +64,12 @@ Contents
 
 .. toctree::
    :maxdepth: 2
+   :caption: Stanford CS224W Machine Learning with Graphs
+
+   Stanford CS224W/index.rst
+
+.. toctree::
+   :maxdepth: 2
    :caption: Network Analysis_ Integrating Social Network Theory, Method, and Application with R
 
    Structural Analysis in the Social Sciences/index.rst
