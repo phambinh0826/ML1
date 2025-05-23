@@ -55,22 +55,3 @@ Contents
    Reducing dimensionality with PCA/index.rst
    chapter_3/index.rst
    chapter_4/index.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Social Network Analysis
-
-   Social Network Analysis/index.rst
-   Social Network Analysis/Module 1 - Graph Theory and Centrality Measures/index.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Stanford CS224W Machine Learning with Graphs
-
-   Stanford CS224W/index.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Network Analysis_ Integrating Social Network Theory, Method, and Application with R
-
-   Structural Analysis in the Social Sciences/index.rst
