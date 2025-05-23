@@ -54,6 +54,7 @@ Contents
    chapter_2/index.rst
    Reducing dimensionality with PCA/index.rst
    chapter_3/index.rst
+   chapter_4/index.rst
 
 .. toctree::
    :maxdepth: 2
